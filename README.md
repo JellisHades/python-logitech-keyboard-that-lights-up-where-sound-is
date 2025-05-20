@@ -1,4 +1,5 @@
 pip install logiled 
+
 pip install SoundCard
 
 my keyboard thing is a logitech G213 so it only lights up in 5 zones, change line 20-24 to um whatever
